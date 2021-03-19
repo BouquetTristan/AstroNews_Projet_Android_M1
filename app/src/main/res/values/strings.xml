@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AstroNews</string>
+    <string name="selected_language">English</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="new_tag">New</string>
+    <string name="loading_message">Loading...</string>
+    <string name="solar_map_title">Solar System</string>
+    <string name="profile">Profile</string>
+    <string name="news">Latest News</string>
+    <string name="sb_action">Dismiss</string>
+    <string name="how_to_use">Click on a planet to see more about it</string>
+    <string name="game_view_content_description" translatable="false" />
+
+    <string name="sun">Sun</string>
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+        <string name="moon">Moon</string>
+    <string name="mars">Mars</string>
+        <string name="phobos">Phobos</string>
+        <string name="deimos">Deimos</string>
+
+    <string name="day">days</string>
+    <string name="hour">hours</string>
+    <string name="name">Name</string>
+    <string name="mass">Mass</string>
+    <string name="vol">Volume</string>
+    <string name="gravity">Gravity</string>
+    <string name="density">Density</string>
+    <string name="mean_radius">Mean Radius</string>
+    <string name="sideral_orbit">Siederal Orbit</string>
+    <string name="sideral_rotation">Sideral Rotation</string>
+    <string name="discoverd_by">Discovered by</string>
+    <string name="discovery_date">Discovery Date</string>
+    <string name="alternative_name">Alternative Name</string>
+</resources>

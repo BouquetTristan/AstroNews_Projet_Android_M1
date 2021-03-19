@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Le journal de l\'espace</string>
+    <string name="selected_language">Français</string>
+    <string name="title_activity_notification">Activité de Notification</string>
+    <string name="new_tag">Nouveau</string>
+    <string name="solar_map_title">Solr System</string>
+    <string name="profile">Profil</string>
+    <string name="news">Derniers Articles</string>
+    <string name="sb_action">J\'ai compirs</string>
+    <string name="how_to_use">Touchez une planète pour afficher ses informations</string>
+    <string name="loading_message">Chargement...</string>
+
+    <string name="sun">Le Soleil</string>
+    <string name="mercury">Mercure</string>
+    <string name="venus">Venus</string>
+    <string name="earth">La Terre</string>
+        <string name="moon">La Lune</string>
+    <string name="mars">Mars</string>
+        <string name="phobos">Phobos</string>
+        <string name="deimos">Deimos</string>
+
+    <string name="day">jours</string>
+    <string name="hour">heures</string>
+    <string name="name">Nom </string>
+    <string name="mass">Masse </string>
+    <string name="vol">Volume </string>
+    <string name="gravity">Gravité </string>
+    <string name="density">Densité </string>
+    <string name="mean_radius">Rayon Moyen </string>
+    <string name="sideral_orbit">Période de révolution </string>
+    <string name="sideral_rotation">Période de rotation </string>
+    <string name="discoverd_by">Découverte par </string>
+    <string name="discovery_date">Découverte le </string>
+    <string name="alternative_name">Nom alternatif </string>
+</resources>
